@@ -1,0 +1,10 @@
+
+{
+  "income": {
+    "id": "99999",
+    "createdAt": "01/01/2021",
+    "leadId": "12345678900",
+    "document": "9999999",
+    "inferredIncome": "9000"
+  }
+}
