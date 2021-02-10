@@ -1,10 +1,12 @@
 
 {
-  "income": {
-    "id": "99999",
-    "createdAt": "01/01/2021",
-    "leadId": "12345678900",
-    "document": "9999999",
-    "inferredIncome": "9000"
+  "payload": {
+    "external_id": "aa-bearer-bb",
+    "created_at": "21/21/21",
+    "lead_id": "9999999999",
+    "application_id": "99999990",
+    "document": "987654321",
+    "document_type": "cpf",
+    "inferred_income": "8000"
   }
 }
